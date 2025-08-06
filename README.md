@@ -1,6 +1,6 @@
 #  Heart-Disese-Detector
 
-**Machine Learning** to predict the likelihood of diabetes based on health-related input features
+**Machine Learning** to predict the likelihood of heart disease based on health-related input features
 
 ## 🛠️ Tech Stack
 
